@@ -1,4 +1,4 @@
-#rSys
+rSys
 
 rSys is a lightweight system information tool written in C# and .NET, designed specifically for Linux.
 
