@@ -1,4 +1,5 @@
-## RSYS
+<img width="1500" height="500" alt="Novo Projeto" src="https://github.com/user-attachments/assets/53163878-b2a3-4467-b4d7-3d54ca5c1628" />
+
 
 rSys is a lightweight system information tool written in C# and .NET, designed specifically for Linux.
 
